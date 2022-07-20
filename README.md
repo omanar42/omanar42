@@ -10,16 +10,16 @@
 |                                                 |
 -------------------------------------------------->
 
-<center>
-
 ## 💁🏻‍♂️ About Me
 
-<h4>
+<h4 align="center">
 	<samp>
 		Hi there 👋🏼 Welcome to my Github! I'm Oussama, Software Engineer and Student at 42 Network, a hard-working with knowledge on Computer Science.
 	</samp>
 </h4>
-<img width="60%" height="300px" src="img/full-stack.gif" alt="cover"/>
+<p align="center">
+	<img width="75%" height="350px" src="img/full-stack.gif" alt="cover"/>
+</p>
 
 ---
 
@@ -38,5 +38,3 @@
 ✨ Check Out My Repositories and Projects. ⬇️
 
 Hope You Enjoy !!
-
-</center>

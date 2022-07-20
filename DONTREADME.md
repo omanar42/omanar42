@@ -10,12 +10,8 @@
 |                                                 |
 -------------------------------------------------->
 
-<center>
-
 [![GAMEOVER](img/gameover.gif)](https://github.com/omanar42)
 
 ## YOU CATCH ME ☑️
 
 [![omanar's 42 stats](https://badge.mediaplus.ma/greenbinary/omanar)](https://github.com/omanar42)
-
-</center>

@@ -14,4 +14,4 @@
 
 ## YOU CATCH ME ☑️
 
-[![omanar's 42 stats](https://badge.mediaplus.ma/greenbinary/omanar)](https://github.com/omanar42)
+[![omanar's 42 stats](https://badge42.vercel.app/api/v2/cl5u4grtx004509lcl1e162e4/stats?cursusId=21&coalitionId=79)](https://github.com/omanar42)
